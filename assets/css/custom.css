@@ -1,0 +1,31 @@
+body {
+    background-color: #121212; /* Deep Dark Background */
+    color: #e0e0e0; /* Light Gray Text */
+}
+
+a {
+    color: #00c4ff; /* Cyan Links */
+}
+
+a:hover {
+    color: #ff4081; /* Pink Hover Effect */
+}
+
+header {
+    background-color: #1a1a1a; /* Dark Header */
+    border-bottom: 2px solid #00c4ff;
+}
+
+footer {
+    background-color: #1a1a1a; 
+    color: #888;
+    text-align: center;
+    padding: 10px;
+}
+
+code {
+    background-color: #282828;
+    color: #ffcc00;
+    padding: 4px;
+    border-radius: 5px;
+}
